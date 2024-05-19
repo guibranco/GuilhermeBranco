@@ -16,7 +16,7 @@ Home page that redirects to my GitHub Pages.
 
 ---
 
-Urls:
+## Urls
 
 - [https://guilherme.straccini.com](https://guilherme.straccini.com)
 - [https://guilherme.straccini.com.br](https://guilherme.straccini.com.br)
@@ -27,3 +27,7 @@ Urls:
 - [https://straccini.com.br](https://straccini.com.br)
 - [https://stracini.com](https://stracini.com)
 - [https://stracini.com.br](https://stracini.com.br)
+
+---
+
+Copyright Guilherme Branco Stracini © 2024
