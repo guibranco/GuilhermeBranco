@@ -1,6 +1,6 @@
 # GuilhermeBranco
 
-Home page that redirects to my GitHub repository.
+Home page that redirects to my GitHub Pages.
 
 [![wakatime](https://wakatime.com/badge/github/guibranco/GuilhermeBranco.svg)](https://wakatime.com/badge/github/guibranco/GuilhermeBranco)
 [![Deploy via ftp](https://github.com/guibranco/GuilhermeBranco/actions/workflows/deploy.yml/badge.svg)](https://github.com/guibranco/GuilhermeBranco/actions/workflows/deploy.yml)
