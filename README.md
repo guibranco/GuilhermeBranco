@@ -12,7 +12,7 @@ Home page that redirects to my GitHub repository.
 
 💻 🤓 Repository that holds the root www directory of my servers.
 
-![Hacker Glider](Src/hackerGlider.png)
+![Guilherme Branco](Src/GuilhermeBranco.png)
 
 ---
 
