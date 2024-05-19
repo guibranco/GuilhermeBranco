@@ -1,4 +1,4 @@
-# GuilhermeBranco
+# Guilherme Branco
 
 Home page that redirects to my GitHub Pages.
 
@@ -16,7 +16,7 @@ Home page that redirects to my GitHub Pages.
 
 ---
 
-It is also available from:
+Urls:
 
 - [https://guilherme.straccini.com](https://guilherme.straccini.com)
 - [https://guilherme.straccini.com.br](https://guilherme.straccini.com.br)
