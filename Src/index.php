@@ -10,12 +10,12 @@ if (isset($_SERVER["HTTP_REFERER"])) {
 switch ($host) {
     case "apibr.com":
         $destination = "apibr.com/ui";
-    break;
+        break;
     case "zerocool.com.br":
         $destination = "zerocool.com.br/portfolio";
-    break;
+        break;
     default:
-        $destination = "guibranco.github.io";    
+        $destination = "guibranco.github.io";
 }
 
 $redirect = "https://" . $destination . "/?utm_campaign=" . $campaign . "&utm_media=redirect&utm_source=" . $host;
