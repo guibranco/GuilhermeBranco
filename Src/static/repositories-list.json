@@ -1,9 +1,154 @@
 [
     {
-        "full_name": "remotes",
-        "url": "https://github.com/remote-es/remotes",
-        "organization":  {
+        "name": "guiadevbrasil",
+        "full_name": "arthurspk/guiadevbrasil",
+        "URL": "https://github.com/arthurspk/guiadevbrasil",
+        "organization": {
+            "login": "arthurspk"
+        }
+    },
+    {
+        "name": "me-contrata",
+        "full_name": "backend-br/me-contrata",
+        "URL": "https://github.com/backend-br/me-contrata",
+        "organization": {
+            "login": "backend-br"
+        }
+    },
+    {
+        "name": "empresas-php",
+        "full_name": "DanielHe4rt/empresas-php",
+        "URL": "https://github.com/DanielHe4rt/empresas-php",
+        "organization": {
+            "login": "DanielHe4rt"
+        }
+    },
+    {
+        "name": "free-programming-books",
+        "full_name": "EbookFoundation/free-programming-books",
+        "URL": "https://github.com/EbookFoundation/free-programming-books",
+        "organization": {
+            "login": "EbookFoundation"
+        }
+    },
+    {
+        "name": "TheRemoteFreelancer",
+        "full_name": "engineerapart/TheRemoteFreelancer",
+        "URL": "https://github.com/engineerapart/TheRemoteFreelancer",
+        "organization": {
+            "login": "engineerapart"
+        }
+    },
+    {
+        "name": "me-contrata",
+        "full_name": "frontendbr/me-contrata",
+        "URL": "https://github.com/frontendbr/me-contrata",
+        "organization": {
+            "login": "frontendbr"
+        }
+    },
+    {
+        "name": "4noobs",
+        "full_name": "he4rt/4noobs",
+        "URL": "https://github.com/he4rt/4noobs",
+        "organization": {
+            "login": "he4rt"
+        }
+    },
+    {
+        "name": "awesome-italia-remote",
+        "full_name": "italiaremote/awesome-italia-remote",
+        "URL": "https://github.com/italiaremote/awesome-italia-remote",
+        "organization": {
+            "login": "italiaremote"
+        }
+    },
+    {
+        "name": "remote-jobs-brazil",
+        "full_name": "lerrua/remote-jobs-brazil",
+        "URL": "https://github.com/lerrua/remote-jobs-brazil",
+        "organization": {
+            "login": "lerrua"
+        }
+    },
+    {
+        "name": "awesome-remote-job",
+        "full_name": "lukasz-madon/awesome-remote-job",
+        "URL": "https://github.com/lukasz-madon/awesome-remote-job",
+        "organization": {
+            "login": "lukasz-madon"
+        }
+    },
+    {
+        "name": "awesome-expat",
+        "full_name": "marceloboeira/awesome-expat",
+        "URL": "https://github.com/marceloboeira/awesome-expat",
+        "organization": {
+            "login": "marceloboeira"
+        }
+    },
+    {
+        "name": "remote-jobs",
+        "full_name": "maurobonfietti/remote-jobs",
+        "URL": "https://github.com/maurobonfietti/remote-jobs",
+        "organization": {
+            "login": "maurobonfietti"
+        }
+    },
+    {
+        "name": "remote-jobs-list",
+        "full_name": "oldmammuth/remote-jobs-list",
+        "URL": "https://github.com/oldmammuth/remote-jobs-list",
+        "organization": {
+            "login": "oldmammuth"
+        }
+    },
+    {
+        "name": "remote-jobs-list",
+        "full_name": "PatrickJS/remote-jobs-list",
+        "URL": "https://github.com/PatrickJS/remote-jobs-list",
+        "organization": {
+            "login": "PatrickJS"
+        }
+    },
+    {
+        "name": "open-positions",
+        "full_name": "rafaelkendrik/open-positions",
+        "URL": "https://github.com/rafaelkendrik/open-positions",
+        "organization": {
+            "login": "rafaelkendrik"
+        }
+    },
+    {
+        "name": "remotes",
+        "full_name": "remote-es/remotes",
+        "URL": "https://github.com/remote-es/remotes",
+        "organization": {
             "login": "remote-es"
+        }
+    },
+    {
+        "name": "remote-jobs",
+        "full_name": "remoteintech/remote-jobs",
+        "URL": "https://github.com/remoteintech/remote-jobs",
+        "organization": {
+            "login": "remoteintech"
+        }
+    },
+    {
+        "name": "primeiro-trampo",
+        "full_name": "training-center/primeiro-trampo",
+        "URL": "https://github.com/training-center/primeiro-trampo",
+        "organization": {
+            "login": "training-center"
+        }
+    },
+    {
+        "name": "established-remote",
+        "full_name": "yanirs/established-remote",
+        "URL": "https://github.com/yanirs/established-remote",
+        "organization": {
+            "login": "yanirs"
         }
     }
 ]
