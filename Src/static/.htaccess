@@ -1,2 +1,2 @@
-Header add Access-Control-Allow-Origin "blog.guilhermebranco.com.br"
+Header add Access-Control-Allow-Origin "https://blog.guilhermebranco.com.br"
 Header add Access-Control-Allow-Methods: "GET,OPTIONS,HEAD"
