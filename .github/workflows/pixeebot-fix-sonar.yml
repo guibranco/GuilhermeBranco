@@ -1,4 +1,5 @@
-name: Fix Sonar Issues with Pixeebot
+name: Fix SonarCloud Issues with Pixeebot
+
 on:
   check_run:
     types: [completed]
@@ -12,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ github.event.check_run.name == 'SonarCloud Code Analysis' }}
     steps:
-      - uses: pixee/upload-tool-results-action@v2
+      - uses: pixee/upload-tool-results-action@v1
         with:
           tool: sonar
           sonar-token: ${{ secrets.SONAR_TOKEN }}
