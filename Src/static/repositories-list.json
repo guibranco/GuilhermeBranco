@@ -64,6 +64,14 @@
         }
     },
     {
+        "name": "awesome-freelancing-germany",
+        "full_name": "hmans/awesome-freelancing-germany",
+        "url": "https://github.com/hmans/awesome-freelancing-germany",
+        "organization": {
+            "login": "hmans"
+        }
+    },
+    {
         "name": "remote-jobs-brazil",
         "full_name": "lerrua/remote-jobs-brazil",
         "url": "https://github.com/lerrua/remote-jobs-brazil",
