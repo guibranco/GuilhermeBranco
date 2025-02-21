@@ -14,6 +14,8 @@ Home page that redirects to my GitHub Pages.
 
 ![Guilherme Branco](Src/GuilhermeBranco.png)
 
+Redirects any of the below urls to [https://guilherme.stracini.com.br](https://guilherme.stracini.com.br)
+
 ---
 
 ## Urls
@@ -21,8 +23,9 @@ Home page that redirects to my GitHub Pages.
 - [https://guilherme.straccini.com](https://guilherme.straccini.com)
 - [https://guilherme.straccini.com.br](https://guilherme.straccini.com.br)
 - [https://guilherme.stracini.com](https://guilherme.stracini.com)
-- [https://guilherme.stracini.com.br](https://guilherme.stracini.com.br)
 - [https://guilhermebranco.com.br](https://guilhermebranco.com.br)
+- [https://guilhermestracini.com.br](https://guilhermestracini.com.br)
+- [https://guilhermestraccini.com.br](https://guilhermestraccini.com.br)
 - [https://straccini.com](https://straccini.com)
 - [https://straccini.com.br](https://straccini.com.br)
 - [https://stracini.com](https://stracini.com)
