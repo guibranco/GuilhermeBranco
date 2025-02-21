@@ -14,7 +14,7 @@ Home page that redirects to my GitHub Pages.
 
 ![Guilherme Branco](Src/GuilhermeBranco.png)
 
-Redirects any of the below urls to [https://guilherme.stracini.com.br](https://guilherme.stracini.com.br)
+Redirect any of the below URLs to [https://guilherme.stracini.com.br](https://guilherme.stracini.com.br)
 
 ---
 
