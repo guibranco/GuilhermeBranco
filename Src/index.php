@@ -15,7 +15,7 @@ switch ($host) {
         $destination = "zerocool.com.br/portfolio";
         break;
     default:
-        $destination = "guibranco.github.io";
+        $destination = "guilherme.stracini.com.br";
 }
 
 $redirect = "https://" . $destination . "/?utm_campaign=" . $campaign . "&utm_media=redirect&utm_source=" . $host;
