@@ -1,2 +1,5 @@
-Header add Access-Control-Allow-Origin "https://blog.guilhermebranco.com.br"
-Header add Access-Control-Allow-Methods: "GET,OPTIONS,HEAD"
+SetEnvIf Origin "^https://(blog\.guilhermebranco\.com\.br|guilherme\.stracini\.com\.br)$" ALLOWED_ORIGIN=$0
+
+Header set Access-Control-Allow-Origin "%{ALLOWED_ORIGIN}e" env=ALLOWED_ORIGIN
+Header set Access-Control-Allow-Methods "GET,OPTIONS,HEAD" env=ALLOWED_ORIGIN
+Header set Vary "Origin"
